@@ -11,6 +11,9 @@ To understand how to use this script, Download pyXtools: python + Hacking from p
 
 Link: https: https://play.google.com/store/apps/details?id=com.pythonxtools
 
+Also join my discord:
+https://discord.gg/U2j3egJP
+
 
 # DISCLAIMER:
 
